@@ -56,4 +56,4 @@ The following files are available for the train and test data. Their description
 
 ## More info
 
-# Detailed info on how the code runs are in the comments of 'run_analysis.R'
+Detailed info on how the code runs are in the comments of 'run_analysis.R'
