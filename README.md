@@ -1,6 +1,6 @@
 # Getting-and-Cleaning-Data-Course-Project
 
-# How run_analysis.md works  
+# How run_analysis.R works  
 
 - Merges the training and the test sets to create one data set.
 - Extracts only the measurements on the mean and standard deviation for each measurement.
